@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on CatBoItAEm</title>
+    <link>/categories/r/</link>
+    <description>Recent content in R on CatBoItAEm</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Confidence intervals for longitudinal models in R</title>
+      <link>/plots_general/ci-for-longitudinal-models/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/plots_general/ci-for-longitudinal-models/</guid>
+      <description># Libraries necessary for this plotlibrary(lme4)## Lade nötiges Paket: Matrixlibrary(emmeans)library(ggplot2)# Data and regression modeldata(sleepstudy)mod &amp;lt;- lmer(Reaction ~ Days + (1|Subject), data=sleepstudy)gr &amp;lt;- ref_grid(mod, cov.keep= c(&amp;quot;Days&amp;quot;))emm &amp;lt;- emmeans(gr, spec= c(&amp;#39;Days&amp;#39;), level= 0.95)# Plotggplot(data = sleepstudy, mapping = aes(x = Days, y = Reaction, col = Subject)) +geom_line() +geom_line(data = data.frame(emm), mapping = aes(y = emmean, col = NULL)) +geom_ribbon(data = data.</description>
+    </item>
+    
+  </channel>
+</rss>
