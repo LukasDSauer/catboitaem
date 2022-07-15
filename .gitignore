@@ -49,4 +49,5 @@ po/*~
 rsconnect/
 
 # Other
-*/Thumbs.bd
+*/Thumbs.db
+*.Rproj
