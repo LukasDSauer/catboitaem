@@ -9,6 +9,9 @@ tags:
   - spaghetti-plot
   - longitudinal-data
   - sgplot
+thumbnailImagePosition: left
+thumbnailImage: ./plots_general/spaghetti-plot-in-sas/fig/spaghetti_plot.png
+showSocial: false
 ---
 
 
