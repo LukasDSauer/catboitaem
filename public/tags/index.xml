@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on CatBOITAEM - Catalogue of biometric images designed to visualize adverse events and more</title>
+    <link>https://example.org/tags/</link>
+    <description>Recent content in Tags on CatBOITAEM - Catalogue of biometric images designed to visualize adverse events and more</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>general</title>
+      <link>https://example.org/tags/general/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/general/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ggplot</title>
+      <link>https://example.org/tags/ggplot/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/ggplot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>longitudinal-data</title>
+      <link>https://example.org/tags/longitudinal-data/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/longitudinal-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>regression-model</title>
+      <link>https://example.org/tags/regression-model/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/regression-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sgplot</title>
+      <link>https://example.org/tags/sgplot/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/sgplot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spaghetti-plot</title>
+      <link>https://example.org/tags/spaghetti-plot/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/spaghetti-plot/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
