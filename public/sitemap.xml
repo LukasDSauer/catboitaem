@@ -2,57 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/about/</loc>
+    <loc>https://www.imbi.uni-heidelberg.de/catboitaem/about/</loc>
     <lastmod>2022-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://www.imbi.uni-heidelberg.de/catboitaem/</loc>
     <lastmod>2022-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://www.imbi.uni-heidelberg.de/catboitaem/categories/</loc>
     <lastmod>2022-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/plots_general/ci-for-longitudinal-models/</loc>
+    <loc>https://www.imbi.uni-heidelberg.de/catboitaem/plots_general/ci-for-longitudinal-models/</loc>
     <lastmod>2022-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/general/</loc>
+    <loc>https://www.imbi.uni-heidelberg.de/catboitaem/tags/general/</loc>
     <lastmod>2022-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/general/</loc>
+    <loc>https://www.imbi.uni-heidelberg.de/catboitaem/general/</loc>
     <lastmod>2022-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/ggplot/</loc>
+    <loc>https://www.imbi.uni-heidelberg.de/catboitaem/tags/ggplot/</loc>
     <lastmod>2022-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/longitudinal-data/</loc>
+    <loc>https://www.imbi.uni-heidelberg.de/catboitaem/tags/longitudinal-data/</loc>
     <lastmod>2022-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/plots_general/</loc>
+    <loc>https://www.imbi.uni-heidelberg.de/catboitaem/plots_general/</loc>
     <lastmod>2022-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/r/</loc>
+    <loc>https://www.imbi.uni-heidelberg.de/catboitaem/categories/r/</loc>
     <lastmod>2022-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/regression-model/</loc>
+    <loc>https://www.imbi.uni-heidelberg.de/catboitaem/tags/regression-model/</loc>
     <lastmod>2022-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/sas/</loc>
+    <loc>https://www.imbi.uni-heidelberg.de/catboitaem/categories/sas/</loc>
     <lastmod>2022-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/sgplot/</loc>
+    <loc>https://www.imbi.uni-heidelberg.de/catboitaem/tags/sgplot/</loc>
     <lastmod>2022-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/plots_general/spaghetti-plot-in-sas/</loc>
+    <loc>https://www.imbi.uni-heidelberg.de/catboitaem/plots_general/spaghetti-plot-in-sas/</loc>
     <lastmod>2022-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/spaghetti-plot/</loc>
+    <loc>https://www.imbi.uni-heidelberg.de/catboitaem/tags/spaghetti-plot/</loc>
     <lastmod>2022-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://www.imbi.uni-heidelberg.de/catboitaem/tags/</loc>
     <lastmod>2022-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/general/welcome/</loc>
+    <loc>https://www.imbi.uni-heidelberg.de/catboitaem/general/welcome/</loc>
     <lastmod>2022-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/archives/</loc>
+    <loc>https://www.imbi.uni-heidelberg.de/catboitaem/archives/</loc>
   </url>
 </urlset>
