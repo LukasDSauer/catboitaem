@@ -1,0 +1,24 @@
+---
+title: Confidence intervals for longitudinal models in R
+author: Jan Meis
+date: '2022-07-15'
+slug: ci-for-longitudinal-models
+categories:
+  - R
+tags:
+  - longitudinal-data
+  - ggplot
+  - regression-model
+  - spaghetti-plot
+thumbnailImagePosition: left
+thumbnailImage: ./plots_general/ci-for-longitudinal-models/index_files/figure-html/plot-1.png
+---
+<!-- Load all necessary libraries -->
+```{r setup, include=FALSE}
+```
+<!-- Add an explanation -->
+The following plot combines a spaghetti plot for individual patient trajectories with the regression line as calculated by a linear model. The confidence interval of the regression line is shown as a grey ribbon around the line.
+
+<!-- Load the code from an external file and generate the plot -->
+```{r plot, file="ci-for-longitudinal-models.R", echo=TRUE}
+```
