@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>general on CatBOITAEM - Catalogue of biometric images designed to visualize adverse events and more</title>
-    <link>https://example.org/tags/general/</link>
+    <link>https://www.imbi.uni-heidelberg.de/catboitaem/tags/general/</link>
     <description>Recent content in general on CatBOITAEM - Catalogue of biometric images designed to visualize adverse events and more</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/general/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.imbi.uni-heidelberg.de/catboitaem/tags/general/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to the Catalogue of Biometric Images Designed to Visualize Adverse Events and More</title>
-      <link>https://example.org/general/welcome/</link>
+      <link>https://www.imbi.uni-heidelberg.de/catboitaem/general/welcome/</link>
       <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/general/welcome/</guid>
+      <guid>https://www.imbi.uni-heidelberg.de/catboitaem/general/welcome/</guid>
       <description>Introduction to the catalogueWelcome text. Some more text.</description>
     </item>
     
