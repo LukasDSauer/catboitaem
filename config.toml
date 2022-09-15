@@ -54,7 +54,7 @@ canonifyurls = true
 # ------
 [author]
   name = "CatBOITAEM - Catalogue of biometric images designed to visualize adverse events and more"
-  bio = "This is a catalogue of examples of data visualization in clinical studies using *R* and *SAS*. It is special in that it puts a specific focus on the visualization of adverse events, a topic that is heavily underrepresented in medical visualization."
+  bio = "This is a catalogue of examples of data visualization in clinical studies using *R* and *SAS*. It is special in that it puts a specific focus on the visualization of adverse events, a topic that is underrepresented in medical visualization."
   location = "IMBI - Institute of Medical Biometry, Heidelberg, Germany"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   # gravatarEmail = "thibaud.lepretre@gmail.com"
